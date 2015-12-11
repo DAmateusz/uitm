@@ -1,0 +1,18 @@
+{
+   
+    "description": "Philippe Coutinho Correia, known as Philippe Coutinho, or simply Coutinho, is a Brazilian professional footballer who plays for English club Liverpool and the Brazil national team as an attacking midfielder or winger. He began his club career at Vasco da Gama in Brazil before moving to Inter Milan in Italy, who loaned him to Spanish side Espanyol in 2012. In January 2013, he was signed by English Premier League club Liverpool for £8.5 million. His vision, passing, dribbling and long-range strikes have earned him the nickname Little Magician by Liverpool fans and teammates.[3] Brazilian great Pelé tipped Coutinho for a great future, after he was named in the 2015 PFA Team of the Year. At the age of 18, Coutinho made his senior international debut for Brazil in 2010. He represented the nation at the 2015 Copa América.", 
+    "id": "philippe-coutinho", 
+    "images": [
+        "img/phones/philippe-coutinho.0.jpg", "img/phones/philippe-coutinho.1.jpg", "img/phones/philippe-coutinho.2.jpg", "img/phones/philippe-coutinho.3.jpg" 
+    ], 
+    "name": "Philippe Coutinho",
+	"fullName": "Philippe Coutinho Correia",
+	"dateOfBirth": "12 June 1992",
+	"placeOfBirth": "Rio de Janeiro, Brazil",
+	"position": "Attacking midfielder",
+	"number": 10,
+	"formerClubs": ["Vasco da Gama 2009-2010", "Internazionale 2010-2013", "Liverpool 2013-..."],
+	"nationalTeam": ["Brazil U17 2009", "Brazil U20 2011-2012", "Brazil 2010-..."],
+	"goals": 18,
+	"matches": 93
+}

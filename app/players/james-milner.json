@@ -1,0 +1,18 @@
+{
+   
+    "description": "James Philip Milner (born 4 January 1986) is an English professional footballer who plays as a Winger or a Midfielder for Liverpool and the English national team. Milner is the vice-captain of Liverpool. He has previously played for Leeds United, Swindon Town, Newcastle United, Aston Villa and Manchester City. Playing as a central midfielder with Aston Villa, Milner was named PFA Young Player of the Season and in the PFA Team of the Season for the 2009–10 Premier League season; however, after his move to Manchester City, Milner was more often utilised as a winger.", 
+    "id": "james-milner", 
+    "images": [
+        "img/phones/james-milner.0.jpg", "img/phones/james-milner.1.jpg", "img/phones/james-milner.2.jpg", "img/phones/james-milner.3.jpg" 
+    ], 
+    "name": "James Milner",
+	"fullName": "James Philip Milner",
+	"dateOfBirth": "4 January 1986",
+	"placeOfBirth": "Wortley, Leeds, England",
+	"position": "Midfielder",
+	"number": 7,
+	"formerClubs": ["Leeds United 2002-2004", "Newcastle United 2004-2008", "Aston Villa 2008 -2010", "Manchester City 2010-2015", "Liverpool 2015-..."],
+	"nationalTeam": ["England U17 2002-2003", "England U19 2003", "England U20 2003-2004", "England 2009-..."],
+	"goals": 1,
+	"matches": 12
+}

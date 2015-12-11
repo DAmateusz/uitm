@@ -1,0 +1,18 @@
+{
+   
+    "description": "Nathaniel Edwin Clyne (born 5 April 1991) is an English footballer who plays as a right back for Liverpool. He began his career at Crystal Palace, playing regularly in four Championship seasons before a move to Southampton, where he contested three seasons in the Premier League. He joined Liverpool in July 2015 on a five-year contract for a fee of £12.5 million. Formerly an international at under-19 and under-21 level, Clyne made his senior international debut for England in November 2014.", 
+    "id": "nathaniel-clyne", 
+    "images": [
+        "img/phones/nathaniel-clyne.0.jpg", "img/phones/nathaniel-clyne.1.jpg", "img/phones/nathaniel-clyne.2.jpg", "img/phones/nathaniel-clyne.3.jpg" 
+    ], 
+    "name": "Nathaniel Clyne",
+	"fullName": "Nathaniel Edwin Clyne",
+	"dateOfBirth": "5 April 1991",
+	"placeOfBirth": "Stockwell, England",
+	"position": "Right back",
+	"number": 2,
+	"formerClubs": ["Crystal Palace 2008-2012", "Southampton 2012-2015", "Liverpool 2015 -..."],
+	"nationalTeam": ["England U19 2009-2010", "England U21 2011-2013", "England 2014-..."],
+	"goals": 1,
+	"matches": 10
+}

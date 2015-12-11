@@ -1,0 +1,18 @@
+{
+   
+    "description": "José Enrique Sánchez Díaz, known as José Enrique, is a Spanish footballer who plays as a left back for English club Liverpool. Born in Valencia, José Enrique started his footballing career at Levante UD before being acquired by Valencia CF. Valencia sent him to Celta de Vigo for a season-long loan spell. At the conclusion of this loan spell, he was signed by Villarreal CF in 2006 after several eye-catching performances for the Vigo side. The highly rated full-back enjoyed a successful 2006–07 season with Villarreal before his transfer to ", 
+    "id": "jose-enrique", 
+    "images": [
+        "img/phones/jose-enrique.0.jpg", "img/phones/jose-enrique.1.jpg", "img/phones/jose-enrique.2.jpg", "img/phones/jose-enrique.3.jpg"  
+    ], 
+    "name": "Jose Enrique",
+	"fullName": "Jose Enrique Sanchez Diaz",
+	"dateOfBirth": "23 January 1986",
+	"placeOfBirth": "Valencia, Spain",
+	"position": "Left back",
+	"number": 3,
+	"formerClubs": ["Levante B 2004-2005", "Valencia 2005-2006", "Villarreal 2006-2007", "Newcastle United 2007-2011", "Liverpool 2011-..."],
+	"nationalTeam": ["Spain U16 2001", "Spain U20 2005", "Spain 2006"],
+	"goals": 2,
+	"matches": 76
+}

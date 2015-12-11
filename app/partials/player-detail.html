@@ -1,0 +1,57 @@
+<div class="player-images">
+  <img ng-src="{{img}}"
+       class="phone img-circle"
+       ng-repeat="img in player.images"
+       ng-class="{active: mainImageUrl==img}">
+</div>
+
+<h1>{{player.name}}</h1>
+
+<p>{{player.description}}</p>
+
+<ul class="phone-thumbs">
+  <li ng-repeat="img in player.images">
+    <img ng-src="{{img}}" ng-click="setImage(img)">
+  </li>
+</ul>
+
+<div class="col-lg-1 col-offset-6 centered">
+<ul class="specs">
+  <li>
+    <span>Player</span>
+    <dl>
+      <dt>Full name</dt>
+      <dd>{{player.fullName}}</dd>
+      <dt>Date of birth</dt>
+      <dd>{{player.dateOfBirth}}</dd>
+      <dt>Place of birth</dt>
+      <dd>{{player.placeOfBirth}}</dd>
+    </dl>
+  </li>
+  
+  <li>
+    <span>Liverpool</span>
+    <dl>
+      <dt>Matches: {{player.matches}}</dt>
+      <dt>Goals: {{player.goals}}</dt>
+      <dt>Number: {{player.number}}</dt>
+      <dt>Position: {{player.position}}</dt>
+    </dl>
+  </li>
+  
+  <li>
+    <span>Clubs:</span>
+    <dl>
+      <dd ng-repeat="club in player.formerClubs"> {{club}}</dd> 
+    </dl>
+  </li>
+  
+  <li>
+    <span>National team:</span>
+    <dl>
+      <dd ng-repeat="nationalTeam in player.nationalTeam"> {{nationalTeam}}</dd> 
+    </dl>
+  </li>
+ 
+</ul>
+</div>

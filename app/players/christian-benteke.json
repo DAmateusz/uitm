@@ -1,0 +1,18 @@
+{
+   
+    "description": "Christian Benteke Liolo (born 3 December 1990) is a Belgian professional footballer who plays as a striker for Premier League club Liverpool and the Belgium national team. He began his career at Standard Liège, playing a part in their 2008–09 Belgian First Division triumph. Following a season at Genk he was signed for £7 million by Aston Villa. He scored 49 goals in 100 matches for Villa across all competitions, helping them to the 2015 FA Cup Final, before transferring to Liverpool in 2015 for £32.5 million.", 
+    "id": "christian-benteke", 
+    "images": [
+        "img/phones/christian-benteke.0.jpg", "img/phones/christian-benteke.1.jpg", "img/phones/christian-benteke.2.jpg", "img/phones/christian-benteke.3.jpg" 
+    ], 
+    "name": "Christian Benteke",
+	"fullName": "Christian Benteke Liolo",
+	"dateOfBirth": "3 December 1990",
+	"placeOfBirth": "Kinshasa, Zaire",
+	"position": "Striker",
+	"number": 9,
+	"formerClubs": ["Genk 2007-2009", "Standard Liège 2009-2011", "Genk 2011 -2012", "Aston Villa 2012-2015", "Liverpool 2015-..."],
+	"nationalTeam": ["Belgium U17 2007", "Belgium U18 2007-2008", "Belgium U19 2008-2009", "Belgium 2009-..."],
+	"goals": 4,
+	"matches": 10
+}

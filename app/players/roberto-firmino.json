@@ -1,0 +1,18 @@
+{
+   
+    "description": "Roberto Firmino Barbosa de Oliveira (born 2 October 1991), commonly known as Roberto Firmino or solely as Firmino, is a Brazilian professional footballer who plays for English club Liverpool and the Brazil national team as an attacking midfielder, forward or winger. Starting his career with Figueirense in 2009, he spent four-and-a-half seasons at Hoffenheim, helping them to promotion to the Bundesliga. His 16 goals in 33 games for the 2013–14 Bundesliga season earned him the award for the league's Breakthrough Player. He signed for English club Liverpool in July 2015. Firmino made his international debut for Brazil in November 2014 and represented the nation at the 2015 Copa América.", 
+    "id": "roberto-firmino", 
+    "images": [
+        "img/phones/roberto-firmino.0.jpg", "img/phones/roberto-firmino.1.jpg", "img/phones/roberto-firmino.2.jpg", "img/phones/roberto-firmino.3.jpg"  
+    ], 
+    "name": "Roberto Firmino",
+	"fullName": "Roberto Firmino Barbosa de Oliveira",
+	"dateOfBirth": "2 October 1991",
+	"placeOfBirth": "Maceió, Brazil",
+	"position": "Attacking midfielder",
+	"number": 11,
+	"formerClubs": ["Figueirense 2009-2010", "1899 Hoffenheim 2011-2015", "Liverpool 2015-..."],
+	"nationalTeam": ["Brazil U17 2009", "Brazil U20 2011-2012", "Brazil 2010-..."],
+	"goals": 1,
+	"matches": 10
+}

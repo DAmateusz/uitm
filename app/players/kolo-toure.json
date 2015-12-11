@@ -1,0 +1,18 @@
+{
+   
+    "description": "Kolo Abib Touré (born 19 March 1981) is an Ivorian professional footballer who plays for English club Liverpool as a defender. Beginning his career at ASEC Mimosas, Touré moved to Arsenal in 2002, where he made 326 appearances for the club and was a member of the famous 03-04 'invincibles' side. In 2009 he joined his younger brother Yaya Touré at Manchester City where they played together for three years, helping City earn its first league title in 44 years. In 2013 Touré transferred to Liverpool.", 
+    "id": "kolo-toure", 
+    "images": [
+        "img/phones/kolo-toure.0.jpg", "img/phones/kolo-toure.1.jpg", "img/phones/kolo-toure.2.jpg", "img/phones/kolo-toure.3.jpg" 
+    ], 
+    "name": "Kolo Touré",
+	"fullName": "Kolo Abib Touré",
+	"dateOfBirth": "19 March 1981",
+	"placeOfBirth": "Bouaké, Ivory Coast",
+	"position": "Centre back",
+	"number": 4,
+	"formerClubs": ["ASEC Mimosas 1999-2002", "Arsenal 2002-2009", "Manchester City 2009-2013", "Liverpool 2013-..."],
+	"nationalTeam": ["Ivory Coast 2000-2015"],
+	"goals": 0,
+	"matches": 33
+}

@@ -1,0 +1,18 @@
+{
+   
+    "description": "Dejan Lovren  (born 5 July 1989) is a Croatian professional footballer who plays as a central defender for Premier League club Liverpool and the Croatian national team. Lovren began his career at Dinamo Zagreb before moving to Olympique Lyonnais in January 2010. He spent three-and-a-half seasons with the Ligue 1 team, winning the 2012 Coupe de France. In 2013, he signed for Southampton, and after one season there, he joined Liverpool for £20 million.", 
+    "id": "dejan-lovren", 
+    "images": [
+        "img/phones/dejan-lovren.0.jpg", "img/phones/dejan-lovren.1.jpg", "img/phones/dejan-lovren.2.jpg", "img/phones/dejan-lovren.3.jpg" 
+    ], 
+    "name": "Dejan Lovren",
+	"fullName": "Dejan Lovren",
+	"dateOfBirth": "5 July 1989",
+	"placeOfBirth": "Zenica, SFR Yugoslavia",
+	"position": "Centre back",
+	"number": 6,
+	"formerClubs": ["Dinamo Zagreb 2006-2010", "Lyon 2010-2013", "Southampton 2013 -2014", "Liverpool 2014-..."],
+	"nationalTeam": ["Croatia U17 2004-2005", "Croatia U19 2006-2008", "Croatia U21 2007-2010", "Croatia 2009-..."],
+	"goals": 1,
+	"matches": 31
+}

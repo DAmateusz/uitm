@@ -1,0 +1,82 @@
+﻿[
+	{
+        "number": 2, 
+        "id": "nathaniel-clyne", 
+        "imageUrl": "img/phones/nathaniel-clyne.0.jpg", 
+        "name": "Nathaniel Clyne",
+		"position": "Right back",		
+        "snippet": "Nathaniel Edwin Clyne (born 5 April 1991) is an English footballer who plays as a right back for Liverpool."
+    },
+	{
+        "number": 3, 
+        "id": "jose-enrique", 
+        "imageUrl": "img/phones/jose-enrique.0.jpg", 
+        "name": "José Enrique", 
+		"position": "Left back",
+        "snippet": "José Enrique Sánchez Díaz, known as José Enrique, is a Spanish footballer who plays as a left back for English club Liverpool."
+    },
+	{
+        "number": 4, 
+        "id": "kolo-toure", 
+        "imageUrl": "img/phones/kolo-toure.0.jpg", 
+        "name": "Kolo Touré", 
+		"position": "Centre back",
+        "snippet": "Kolo Abib Toure (born 19 March 1981) is an Ivorian professional footballer who plays for English club Liverpool as a defender."
+    },
+	{
+        "number": 6, 
+        "id": "dejan-lovren", 
+        "imageUrl": "img/phones/dejan-lovren.0.jpg", 
+        "name": "Dejan Lovren", 
+		"position": "Centre back",
+        "snippet": "Dejan Lovren  (born 5 July 1989) is a Croatian professional footballer who plays as a central defender for Premier League club Liverpool and the Croatian national team."
+    },
+	{
+        "number": 7, 
+        "id": "james-milner", 
+        "imageUrl": "img/phones/james-milner.0.jpg", 
+        "name": "James Milner", 
+		"position": "Midfielder",
+        "snippet": "James Philip Milner (born 4 January 1986) is an English professional footballer who plays as a Winger or a Midfielder for Liverpool and the English national team."
+    },
+	{
+        "number": 9, 
+        "id": "christian-benteke", 
+        "imageUrl": "img/phones/christian-benteke.0.jpg", 
+        "name": "Christian Benteke", 
+		"position": "Striker",
+        "snippet": "Christian Benteke Liolo (born 3 December 1990) is a Belgian professional footballer who plays as a striker for Premier League club Liverpool and the Belgium national team."
+    },
+	{
+        "number": 10, 
+        "id": "philippe-coutinho", 
+        "imageUrl": "img/phones/philippe-coutinho.0.jpg", 
+        "name": "Philippe Coutinho", 
+		"position": "Attacking midfielder",
+        "snippet": "Philippe Coutinho Correia, known as Philippe Coutinho, or simply Coutinho, is a Brazilian professional footballer who plays for English club Liverpool and the Brazil national team as an attacking midfielder or winger."
+    },
+	{
+        "number": 11, 
+        "id": "roberto-firmino", 
+        "imageUrl": "img/phones/roberto-firmino.0.jpg", 
+        "name": "Roberto Firmino", 
+		"position": "Attacking midfielder",
+        "snippet": "Roberto Firmino Barbosa de Oliveira (born 2 October 1991), commonly known as Roberto Firmino or solely as Firmino, is a Brazilian professional footballer who plays for English club Liverpool."
+    },
+	{
+        "number": 14, 
+        "id": "jordan-henderson", 
+        "imageUrl": "img/phones/jordan-henderson.0.jpg", 
+        "name": "Jordan Henderson", 
+		"position": "Midfielder",
+        "snippet": "Jordan Brian Henderson (born 17 June 1990) is an English professional footballer who captains Premier League club Liverpool. He also plays for the England national team."
+    },
+	{
+        "number": 20, 
+        "id": "adam-lallana", 
+        "imageUrl": "img/phones/adam-lallana.0.jpg", 
+        "name": "Adam Lallana", 
+		"position": "Attacking midfielder",
+        "snippet": "Adam David Lallana (born 10 May 1988) is an English professional footballer who plays as an attacking midfielder for Premier League club Liverpool and the England national team."
+    }		
+]
